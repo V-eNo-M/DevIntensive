@@ -2,4 +2,73 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Sizes-->
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+
+    <!--Spaces-->
+    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_normal_16">16dp</dimen>
+    <dimen name="spacing_medial_24">24dp</dimen>
+    <dimen name="spacing_medium_32">32dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_larger_72">72dp</dimen>
+
+    <!--Mobile-->
+    <!--List Keylines and margins-->
+    <dimen name="mobile_list_keylines_and_margins_screen_edge_left_and_right_margins_16">16dp</dimen>
+    <dimen name="mobile_list_keylines_and_margins_content_associated_with_an_icon_or_avatar_left_margin_72">72dp</dimen>
+    <dimen name="mobile_list_keylines_and_margins_horizontal_margins_on_mobile_16">16dp</dimen>
+
+    <!--List Vertical spacing-->
+    <dimen name="mobile_list_vertical_spacing_status_bar_24">24dp</dimen>
+    <dimen name="mobile_list_vertical_spacing_toolbar_56">56dp</dimen>
+    <dimen name="mobile_list_vertical_spacing_subtitle_48">48dp</dimen>
+    <dimen name="mobile_list_vertical_spacing_list_item_72">72dp</dimen>
+    <dimen name="mobile_list_vertical_spacing_title_and_list_items_72">72dp</dimen>
+    <dimen name="mobile_list_vertical_spacing_space_between_content_areas_8">8dp</dimen>
+
+    <!--Navigation drawer Keylines and margins-->
+    <dimen name="mobile_navigation_drawer_keylines_and_margins_screen_edge_left_and_right_margins_16">16dp</dimen>
+    <dimen name="mobile_navigation_drawer_keylines_and_margins_content_associated_with_an_icon_or_avatar_left_margin_72">72dp</dimen>
+
+    <!--Navigation drawer Vertical spacing-->
+    <dimen name="mobile_navigation_drawer_vertical_spacing_account_menu_and_list_items_48">48dp</dimen>
+    <dimen name="mobile_space_between_content_areas_8">8dp</dimen>
+    <dimen name="mobile_navigation_right_margin_56">56dp</dimen>
+
+    <!--Touch target size-->
+    <dimen name="mobile_touch_target_size_avatar_40">40dp</dimen>
+    <dimen name="mobile_touch_target_size_icon_24">24dp</dimen>
+    <dimen name="mobile_touch_target_size_touch_target_on_both_48">48dp</dimen>
+    <dimen name="mobile_touch_target_size_touch_target_height_48">48dp</dimen>
+    <dimen name="mobile_touch_target_size_button_height_36">36dp</dimen>
+
+    <!--Tablet-->
+    <!--List Keylines and margins-->
+    <dimen name="tablet_list_keylines_and_margins_screen_edge_left_and_right_margins_24">24dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_content_left_margin_from_screen_edge_80">80dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_icons_vertical_center_distance_from_screen_edge_52">52dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_nav_item_left_padding_from_screen_edge_104">104dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_card_left_and_right_padding_24">24dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_card_left_and_right_padding_32">32dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_card_nav_item_left_padding_96">96dp</dimen>
+    <dimen name="tablet_list_keylines_and_margins_card_content_left_padding_104">104dp</dimen>
+
+    <!--List Vertical spacing-->
+    <dimen name="tablet_list_vertical_spacing_status_bar_and_space_above_list_24">24dp</dimen>
+    <dimen name="tablet_list_vertical_spacing_list_item_64">64dp</dimen>
+    <dimen name="tablet_list_vertical_spacing_list_item_72">72dp</dimen>
+    <dimen name="tablet_list_vertical_spacing_space_between_content_areas_8">8dp</dimen>
+    <dimen name="tablet_list_vertical_spacing_title_80">80dp</dimen>
+    <dimen name="tablet_list_vertical_spacing_subtitle_list_item_and_slider_48">48dp</dimen>
+
+    <!--Margins and Gutters-->
+    <dimen name="margins_and_gutters_8">8dp</dimen>
+    <dimen name="margins_and_gutters_16">16dp</dimen>
+    <dimen name="margins_and_gutters_24">24dp</dimen>
+    <dimen name="margins_and_gutters_40">40dp</dimen>
+
 </resources>
